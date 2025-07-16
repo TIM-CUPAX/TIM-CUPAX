@@ -1,4 +1,6 @@
-## Hi there 👋
+## Helo world! I'm TIM CUPAX 👋
+
+![TIM CUPAX](img/Sampul%20Github.png)
 
 <!--
 **TIM-CUPAX/TIM-CUPAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **SAMARADA**
+- 🌱 I’m currently learning **Laravel framework**
